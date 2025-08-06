@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif" alt="Animation" width="200"/>
+  <img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" alt="Animation" width="200"/>
 </p>
 
 <h1 align="center">Bonjour, moi c’est Andy 👋</h1>
