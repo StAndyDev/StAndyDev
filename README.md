@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animation" width="200"/>
+</p>
 
-<!--
-**StAndyDev/StAndyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Bonjour, moi c’est Andy 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Développeur passionné par la création d'applications web, desktop et mobile.<br/>
+  J'aime transformer des idées en solutions concrètes et performantes.<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Ce que je fais 
+- Applications **web** (React, Django, Node.js) 
+- Applications **mobiles** (React Native, Expo)
+- Applications **desktop** (Java Swing, Java Fx)
+- Langages : Java, Python, JavaScript, TypeScript
+
+---
+
+## Contactez-moi  
+- 📧 Email : [sitrakaandrianirina777@gmail.com](mailto:sitrakaandrianirina777@gmail.com)
+- 🔗 LinkedIn : [www.linkedin.com/in/sitraka-andy](https://www.linkedin.com/in/sitraka-andy)
+- 🌐 Portfolio : [sitraka-andy.vercel.app/](https://sitraka-andy.vercel.app/)  
+
+---
+
+## 🎯 Mon approche  
+> “L’innovation ne vient pas du confort, mais du challenge. Je cherche toujours à apprendre, optimiser, et construire des applis qui font la différence.”  
+
+---
+
+## 📊 Mes stats GitHub  
+![Sitraka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsername&layout=compact&theme=radical)  
+
+---
+
+<p align="center">
+  <em>Let's build something amazing together!🚀</em>
+</p>
