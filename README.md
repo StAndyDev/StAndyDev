@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animation" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif" alt="Animation" width="200"/>
 </p>
 
 <h1 align="center">Bonjour, moi c’est Andy 👋</h1>
@@ -12,8 +12,8 @@
 ---
 
 ## 🚀 Ce que je fais 
-- Applications **web** (React, Django, Node.js) 
-- Applications **mobiles** (React Native, Expo)
+- Applications **web** (React, Angular, Django, Flask)
+- Applications **mobiles** (React Native, Expo, Ionic/Angular)
 - Applications **desktop** (Java Swing, Java Fx)
 - Langages : Java, Python, JavaScript, TypeScript
 
@@ -32,8 +32,8 @@
 ---
 
 ## 📊 Mes stats GitHub  
-![Sitraka's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUsername&layout=compact&theme=radical)  
+![Sitraka's GitHub stats](https://github-readme-stats.vercel.app/api?username=StAndyDev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StAndyDev&layout=compact&theme=radical)  
 
 ---
 
